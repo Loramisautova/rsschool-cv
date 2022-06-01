@@ -46,3 +46,9 @@ Coursera Front-end Web Development: Layout & JavaScript Specialization <br/>
 *MIPT and Yandex* <br/>
 Coursera Agile Explorer IBM Design Thinking Practitioner <br/>
 *IBM*
+
+## LANGUAGES
+
+* Russian (mother tongue)
+* Azerbaijani (Upper-Intermediate)
+* English UK (Upper-Intermediate)
