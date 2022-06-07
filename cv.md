@@ -25,8 +25,9 @@ HTML5, CSS3, JavaScript / Typescript, JS Framework (React), CSS Frameworks (Mate
 * Used Agile methodology in application development, had SCRUM meeting every day.
 
 ## CODE EXAMPLE
-*********
+
 Codewars sign-up challenge:
+*********
 ```
 const multiple = (a,b) => a * b;
 const result = multiple(2,3);
