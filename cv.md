@@ -27,7 +27,9 @@ HTML5, CSS3, JavaScript / Typescript, JS Framework (React), CSS Frameworks (Mate
 ## CODE EXAMPLE
 
 Codewars sign-up challenge:
+
 *********
+
 ```
 const multiple = (a,b) => a * b;
 const result = multiple(2,3);
